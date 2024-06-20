@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fatgy/fatgy/blob/main/devcard.svg" width="50%" height="auto" alt="Shatmongkol Amaraveja's Dev Card" width="35%" align="right"/></a>
+<a href="https://app.daily.dev/fatgy"><img src="./devcard.png" width="35%" height="auto" alt="Shatmongkol Amaraveja's Dev Card" align="right"/></a>
 
 
 #### I am a Web Developer working in Bangkok, Thailand.
 
 - 🔭 I’m currently working on mini app use Line frontend framework, React, TypeScript and Mui.
 - 🏢 I'm currently working at **E-Commerce Solution Co.,Ltd.**
-- :gear: I use daily: `.js`, `.ts(x)`, `.html`, `.css`
+- :gear: I use daily: `.js(x)`, `.ts(x)`, `.html`, `.css`
 - 🌱 I’m currently learning TypeScript and always programming principles.
 - ⚡ Fun fact: I think i am junior developer all the time because have a lot new things to learn.
 
